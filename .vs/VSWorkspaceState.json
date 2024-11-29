@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\components"
+    "\\public"
   ],
-  "SelectedNode": "\\src\\App.css",
+  "SelectedNode": "\\public\\logo192.png",
   "PreviewInSolutionExplorer": false
 }

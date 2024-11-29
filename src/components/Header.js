@@ -1,10 +1,20 @@
-import Logo from '../images/Logo.svg'
+
+import Nav from './Nav.js';
+import { NavLink } from 'react-router-dom';
 
 function Header() {
+
     return (
-        <header>
-            <img src={Logo} alt="Little_Lemon" />
-        </header>
+
+        <div className="header">
+            <div className="header-wrapper">
+
+
+
+                <Nav />
+
+            </div>
+        </div>
     );
 
 }

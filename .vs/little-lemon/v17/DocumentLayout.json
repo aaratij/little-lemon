@@ -3,22 +3,90 @@
   "WorkspaceRootPath": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Specials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Specials.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\SpecialsCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SpecialsCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\SpecialsCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\SpecialsCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Specials.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\Specials.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\little_lemon\\css\\gridta.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\little_lemon\\gridTemplateArea.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,68 +96,299 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.js",
-              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.js",
-              "RelativeDocumentMoniker": "src\\App.js",
-              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.js",
-              "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Nav.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Nav.js",
+              "RelativeDocumentMoniker": "src\\components\\Nav.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Nav.js",
+              "RelativeToolTip": "src\\components\\Nav.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T14:29:27.264Z",
+              "WhenOpened": "2024-11-27T09:32:54.856Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Specials.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Specials.js",
+              "RelativeDocumentMoniker": "src\\components\\Specials.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Specials.js",
+              "RelativeToolTip": "src\\components\\Specials.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:36:17.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.js",
-              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\App.js",
-              "RelativeDocumentMoniker": "..\\..\\reactexamplesapp\\src\\App.js",
-              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\App.js",
-              "RelativeToolTip": "..\\..\\reactexamplesapp\\src\\App.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T14:53:18.288Z",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T11:14:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nav.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Nav.css",
+              "RelativeDocumentMoniker": "src\\styles\\Nav.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Nav.css",
+              "RelativeToolTip": "src\\styles\\Nav.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T11:12:42.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Main.css",
+              "RelativeDocumentMoniker": "src\\styles\\Main.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Main.css",
+              "RelativeToolTip": "src\\styles\\Main.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T11:05:33.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\index.js",
-              "RelativeDocumentMoniker": "..\\..\\reactexamplesapp\\src\\index.js",
-              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\reactexamplesapp\\src\\index.js",
-              "RelativeToolTip": "..\\..\\reactexamplesapp\\src\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T14:52:16.493Z",
+              "Title": "Header.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Header.css",
+              "RelativeDocumentMoniker": "src\\styles\\Header.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Header.css",
+              "RelativeToolTip": "src\\styles\\Header.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:57:18.619Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Header.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Header.js",
+              "RelativeDocumentMoniker": "src\\components\\Header.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Header.js",
+              "RelativeToolTip": "src\\components\\Header.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:52:15.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "About.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\About.js",
+              "RelativeDocumentMoniker": "src\\components\\About.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\About.js",
+              "RelativeToolTip": "src\\components\\About.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:54:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:52:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Footer.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:35:53.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Home.js",
+              "RelativeDocumentMoniker": "src\\components\\Home.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Home.js",
+              "RelativeToolTip": "src\\components\\Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:19:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T09:53:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Main.js",
+              "RelativeDocumentMoniker": "src\\components\\Main.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Main.js",
+              "RelativeToolTip": "src\\components\\Main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T09:34:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpecialsCard.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\SpecialsCard.js",
+              "RelativeDocumentMoniker": "src\\components\\SpecialsCard.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\SpecialsCard.js",
+              "RelativeToolTip": "src\\components\\SpecialsCard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T10:48:52.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Footer.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Footer.css",
+              "RelativeDocumentMoniker": "src\\styles\\Footer.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Footer.css",
+              "RelativeToolTip": "src\\styles\\Footer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:44:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T09:53:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T14:29:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpecialsCard.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\SpecialsCard.css",
+              "RelativeDocumentMoniker": "src\\styles\\SpecialsCard.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\SpecialsCard.css",
+              "RelativeToolTip": "src\\styles\\SpecialsCard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:39:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Specials.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Specials.css",
+              "RelativeDocumentMoniker": "src\\styles\\Specials.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\styles\\Specials.css",
+              "RelativeToolTip": "src\\styles\\Specials.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:37:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "gridta.css",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\little_lemon\\css\\gridta.css",
+              "RelativeDocumentMoniker": "..\\..\\little_lemon\\css\\gridta.css",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\little_lemon\\css\\gridta.css",
+              "RelativeToolTip": "..\\..\\little_lemon\\css\\gridta.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T09:54:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "gridTemplateArea.html",
+              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\little_lemon\\gridTemplateArea.html",
+              "RelativeDocumentMoniker": "..\\..\\little_lemon\\gridTemplateArea.html",
+              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\little_lemon\\gridTemplateArea.html",
+              "RelativeToolTip": "..\\..\\little_lemon\\gridTemplateArea.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T09:55:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "index.js",
               "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.js",
               "RelativeDocumentMoniker": "src\\index.js",
               "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\index.js",
               "RelativeToolTip": "src\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T10:45:24.809Z",
+              "WhenOpened": "2024-11-27T10:27:57.152Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -100,17 +399,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.js",
-              "DocumentMoniker": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Main.js",
-              "RelativeDocumentMoniker": "src\\components\\Main.js",
-              "ToolTip": "D:\\Aarati\\Coursera\\Web Development\\Capstone\\little-lemon\\src\\components\\Main.js",
-              "RelativeToolTip": "src\\components\\Main.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-26T09:34:15.356Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -1,33 +1,20 @@
-import { Link, Route, Routes } from "react-router-dom";
-import About from './Header.js';
-import Home from './Main.js';
-import { ReactComponent as Logo } from '../images/Logo.svg'
-import '../App.css';
-
+import { NavLink } from "react-router-dom";
+import '../styles/Nav.css';
+import Logo from '../images/Logo.svg';
 
 function Nav() {
     return (
-        <>
-
-
-            <nav className="nav">
-                <Logo />
-            <Link to="/" className="nav-item">Home </Link>
-            <Link to="/about" className="nav-item">About </Link>
-            <Link to="/" className="nav-item">Menu </Link>
-            <Link to="/" className="nav-item">Reservations </Link>
-            <Link to="/" className="nav-item">Order Online </Link>
-            <Link to="/" className="nav-item">Login </Link>
+        <nav className="navigation">
+            <ul>
+                <li><NavLink to="/">{<img className="logo-img" src={Logo} alt="Little Lemon logo" />}</NavLink></li>
+                <li><NavLink to="/" className="active-links">Home </NavLink></li>
+                <li><NavLink to="/about" className="active-links" >About </NavLink></li>
+                <li><NavLink to="/" className="active-links">Menu </NavLink></li>
+                <li><NavLink to="/" className="active-links">Reservations </NavLink></li>
+                <li><NavLink to="/" className="active-links">Order Online </NavLink></li>
+                <li><NavLink to="/" className="active-links" >Login </NavLink></li>
+            </ul>
         </nav>
-            <Routes>
-                <Route path="/" element={<Home/>} />
-                <Route path="/about" element={<About/>} />
-                <Route path="/"  component={Home} />
-                <Route path="/"  component={Home} />
-                <Route path="/"  component={Home} />
-                <Route path="/"  component={Home} />
-            </Routes>
-        </>
 
     );
 
