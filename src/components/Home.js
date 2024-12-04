@@ -9,7 +9,9 @@ function Home() {
             <Header />
             <Main />
             <Specials />
-            <Footer/>
+            <Footer />
+
+
         </>
     );
 }

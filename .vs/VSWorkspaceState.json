@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\src",
+    "\\src\\API",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\public\\logo192.png",
+  "SelectedNode": "\\src\\styles\\Reservations.css",
   "PreviewInSolutionExplorer": false
 }
