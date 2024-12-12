@@ -1,29 +1,26 @@
 import React from "react";
-import style from "../styles/ConfirmedReservation.css";
+import { useLocation } from "react-router-dom"
 
 const ConfirmedReservation = (props) => {
-
-    const formattedDate = props.reservation.date ? props.reservation.date.toLocaleDateString() : 'Not specified';
-
+    //Object.keys(props).forEach(e => console.log(`key=${e}  value=${props[e]}`));
+    const { state } = useLocation();
+    const { occasion, guests, date, time } = state;
+    console.log("Ocassion" + occasion + " GUESTS: " + guests);
     return (
-        <div className={style.confirmation_section}>
-            <div className={style.confirmation_content}>
-                <h2>Your Reservation is Confirmed!</h2>
-                <div>
-                    <p>Thank you for reserving a table at Little Lemon</p>
-                    <p>Please see the details of your reservation below.</p>
-                    <ul>
-                        <div>
-                            <li>Date: {formattedDate} </li>
-                            <li>Time: {props.reservation.time}</li>
-                            <li>Number of Guests: {props.reservation.guests} </li>
-                            {props.reservation.occasion && <li>Occasion: {props.reservation.occasion}</li>}
-                        </div>
-                    </ul>
-                </div>
-            </div>
 
+        <div className="confirm">
+            <div>
+                   <h1>Booking has been <span>confirmed</span></h1>
+                    <ul>
+                        <li>Reservation Date: {date} </li>
+                        <li>Time: {time} </li>
+                        <li>Number of Guests: {guests} </li>
+                        <li>Occasion:  {occasion}</li>
+                    </ul>
+             </div>
         </div>
+
+
     );
 };
 

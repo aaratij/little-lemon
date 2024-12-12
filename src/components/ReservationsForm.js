@@ -1,58 +1,100 @@
-import React from "react";
-import style from "../styles/ReservationsForm.css";
-import TimePicker from  "../common/TimePicker.js";
-import Button from "../common/Button.js";
+import React, { useState} from "react";
+
 
 const ReservationForm = (props) => {
-    const submitHandler = (e) => {
+    const [date, setDate] = useState("");
+
+
+    const [reservation, setReservation] = useState({
+        guests: "1",
+        occasion: "",
+        time: "",
+        date: ""
+    });
+
+
+    const handleSubmit = (e) => {
+
         e.preventDefault();
-        props.createBooking()
-    };
+        const { name, value } = e.target;
+        props.setReservation(prevState => ({
+            ...prevState,
+            [name]: value,
+        }));
+        props.SubmitForm(e, reservation);
+
+    }
+
+    const handleChangeInReservation = (e) => {
+        const { name, value } = e.target;
+        setReservation(prevState => ({
+            ...prevState,
+            [name]: value,
+        }));
+        if (name === "date") {
+            setDate(e.target.value);
+            props.dispatch(e);
+        }
+
+    }
+
 
     return (
-        <div className={style.reservation_section}>
-            <div className={style.reservation_content}>
-                <div>
-                    <p>Select from the available times and tell us how many guests will be coming.</p>
-                    <p>Is it a special occasion? Please let us know and we will do all we can to make the event extra special!</p>
-                </div>
-                <form onSubmit={submitHandler} >
-                    <div className={style.form_item}>
-                        <label for="time">Available Times</label>
-                        <TimePicker
-                            availableTimes={props.availableTimes}
-                            setReservation={props.setReservation}
-                        />
-                    </div>
-                    <div className={style.form_item}>
-                        <label for="guests">Number of Guests</label>
-                        <input
-                            value={props.reservation.guests}
-                            onChange={(e) => props.setReservation(currentSelected => ({ ...currentSelected, guests: e.target.value }))}
-                            type="number"
-                            id="guests"
-                            name="guests"
-                            min="1"
-                            max="8"
-                            disabled={props.reservation.time === ""}
-                            required />
-                    </div>
-                    <div className={style.form_item}>
-                        <label for="occasion">Occasion</label>
-                        <input
-                            value={props.reservation.occasion}
-                            onChange={(e) => props.setReservation(currentSelected => ({ ...currentSelected, occasion: e.target.value }))}
-                            type="text"
-                            disabled={props.reservation.time === ""}
-                            id="occasion"
-                            testid="occasion" />
-                    </div>
-                    <div>
-                        <button type="Submit" className="btn" name="Submit-button">Submit</button>
-                    </div>
+        <header>
+            <section>
+                <form name="ResForm" onSubmit={handleSubmit}>
+                    <fieldset>
+
+                        <div>
+                            <label htmlFor="date">Choose Date:</label>D:
+                            <input id="date" name="date" value={reservation.date}
+                                onChange={handleChangeInReservation}
+                                type="date" required />
+                        </div>
+
+
+                        <div>
+                            <label htmlFor="time">Choose Time:</label>
+                            <select id="time" name="time" value={reservation.time} onChange={handleChangeInReservation}>
+                                <option value="">Select a Time</option>
+                                {
+                                    props.availableTimes.availableTimes?.map(availableTimes => {
+                                        return <option key =
+                                            { availableTimes }> { availableTimes } </option>})
+                                }
+                            </select>
+                         </div>
+
+
+                        <div>
+                            <label htmlFor="guests">Number of Guests:</label>
+                            <input id="guests" name="guests" value={reservation.guests}
+                                onChange={handleChangeInReservation}
+                                type="number" min="1" max="10" required defaultValue="1" />
+                        </div>
+
+
+                        <div>
+                            <label htmlFor="occasion">Occasion</label>
+                            <select id="occasion" name="occasion" value={reservation.occasion}
+                                onChange={handleChangeInReservation}>
+                                <option value="">Select Ocassion</option>
+                                <option value="Birthday">Birthday</option>
+                                <option value="Anniversary">Anniversary</option>
+                                <option value="Engagement">Engagement</option>
+                            </select>
+                        </div>
+
+
+                        <div className="btnReceive">
+                            <input aria-label="On Click" className="" type="button"
+                                value="Make your Reservation" onClick={(e) => handleSubmit(e)} />
+                        </div>
+
+                    </fieldset>
                 </form>
-            </div>
-        </div>
+            </section>
+        </header>
     );
 }
 
